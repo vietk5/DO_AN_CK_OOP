@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\DACK_C#\\Cuoi_ki\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D68BF5-B306-405D-85CB-FC9446C5E8A7}|Cuoi_ki.csproj|c:\\users\\admin\\onedrive\\desktop\\dack_c#\\cuoi_ki\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C0D68BF5-B306-405D-85CB-FC9446C5E8A7}|Cuoi_ki.csproj|solutionrelative:input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D68BF5-B306-405D-85CB-FC9446C5E8A7}|Cuoi_ki.csproj|C:\\Users\\ADMIN\\OneDrive\\Desktop\\DACK_C#\\Cuoi_ki\\quanlyhogiadinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D68BF5-B306-405D-85CB-FC9446C5E8A7}|Cuoi_ki.csproj|solutionrelative:quanlyhogiadinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D68BF5-B306-405D-85CB-FC9446C5E8A7}|Cuoi_ki.csproj|C:\\Users\\ADMIN\\OneDrive\\Desktop\\DACK_C#\\Cuoi_ki\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D68BF5-B306-405D-85CB-FC9446C5E8A7}|Cuoi_ki.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D68BF5-B306-405D-85CB-FC9446C5E8A7}|Cuoi_ki.csproj|C:\\Users\\ADMIN\\OneDrive\\Desktop\\DACK_C#\\Cuoi_ki\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D68BF5-B306-405D-85CB-FC9446C5E8A7}|Cuoi_ki.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D68BF5-B306-405D-85CB-FC9446C5E8A7}|Cuoi_ki.csproj|C:\\Users\\ADMIN\\OneDrive\\Desktop\\DACK_C#\\Cuoi_ki\\ihogiadinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D68BF5-B306-405D-85CB-FC9446C5E8A7}|Cuoi_ki.csproj|solutionrelative:ihogiadinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D68BF5-B306-405D-85CB-FC9446C5E8A7}|Cuoi_ki.csproj|C:\\Users\\ADMIN\\OneDrive\\Desktop\\DACK_C#\\Cuoi_ki\\hogiadinhthuongtru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D68BF5-B306-405D-85CB-FC9446C5E8A7}|Cuoi_ki.csproj|solutionrelative:hogiadinhthuongtru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D68BF5-B306-405D-85CB-FC9446C5E8A7}|Cuoi_ki.csproj|C:\\Users\\ADMIN\\OneDrive\\Desktop\\DACK_C#\\Cuoi_ki\\hogiadinhtamtru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D68BF5-B306-405D-85CB-FC9446C5E8A7}|Cuoi_ki.csproj|solutionrelative:hogiadinhtamtru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D68BF5-B306-405D-85CB-FC9446C5E8A7}|Cuoi_ki.csproj|C:\\Users\\ADMIN\\OneDrive\\Desktop\\DACK_C#\\Cuoi_ki\\hogiadinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D68BF5-B306-405D-85CB-FC9446C5E8A7}|Cuoi_ki.csproj|solutionrelative:hogiadinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D68BF5-B306-405D-85CB-FC9446C5E8A7}|Cuoi_ki.csproj|C:\\Users\\ADMIN\\OneDrive\\Desktop\\DACK_C#\\Cuoi_ki\\diachi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D68BF5-B306-405D-85CB-FC9446C5E8A7}|Cuoi_ki.csproj|solutionrelative:diachi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\DACK_C#\\Cuoi_ki\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\DACK_C#\\Cuoi_ki\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAiwBIAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:33:38.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IHoGiaDinh.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\DACK_C#\\Cuoi_ki\\IHoGiaDinh.cs",
+              "RelativeDocumentMoniker": "IHoGiaDinh.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\DACK_C#\\Cuoi_ki\\IHoGiaDinh.cs",
+              "RelativeToolTip": "IHoGiaDinh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:33:24.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HoGiaDinhTamTru.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\DACK_C#\\Cuoi_ki\\HoGiaDinhTamTru.cs",
+              "RelativeDocumentMoniker": "HoGiaDinhTamTru.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\DACK_C#\\Cuoi_ki\\HoGiaDinhTamTru.cs",
+              "RelativeToolTip": "HoGiaDinhTamTru.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:32:52.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HoGiaDinh.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\DACK_C#\\Cuoi_ki\\HoGiaDinh.cs",
+              "RelativeDocumentMoniker": "HoGiaDinh.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\DACK_C#\\Cuoi_ki\\HoGiaDinh.cs",
+              "RelativeToolTip": "HoGiaDinh.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAmwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:15:59.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HoGiaDinhThuongTru.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\DACK_C#\\Cuoi_ki\\HoGiaDinhThuongTru.cs",
+              "RelativeDocumentMoniker": "HoGiaDinhThuongTru.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\DACK_C#\\Cuoi_ki\\HoGiaDinhThuongTru.cs",
+              "RelativeToolTip": "HoGiaDinhThuongTru.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:15:57.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DiaChi.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\DACK_C#\\Cuoi_ki\\DiaChi.cs",
+              "RelativeDocumentMoniker": "DiaChi.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\DACK_C#\\Cuoi_ki\\DiaChi.cs",
+              "RelativeToolTip": "DiaChi.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T07:47:10.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\DACK_C#\\Cuoi_ki\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\DACK_C#\\Cuoi_ki\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAAADQAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T07:33:42.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Input.txt",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\DACK_C#\\Cuoi_ki\\Input.txt",
+              "RelativeDocumentMoniker": "Input.txt",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\DACK_C#\\Cuoi_ki\\Input.txt",
+              "RelativeToolTip": "Input.txt",
+              "ViewState": "AgIAACoJAAAAAAAAAAAAAD4JAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-16T07:32:12.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuanLyHoGiaDinh.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\DACK_C#\\Cuoi_ki\\QuanLyHoGiaDinh.cs",
+              "RelativeDocumentMoniker": "QuanLyHoGiaDinh.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\DACK_C#\\Cuoi_ki\\QuanLyHoGiaDinh.cs",
+              "RelativeToolTip": "QuanLyHoGiaDinh.cs",
+              "ViewState": "AgIAAMoCAAAAAAAAAAArwNkCAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T07:31:42.524Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

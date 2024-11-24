@@ -1,0 +1,28 @@
+C:\Users\ADMIN\OneDrive\Desktop\DACK_C#\Cuoi_ki\Cuoi_ki\Cuoi_ki\bin\Debug\Cuoi_ki.exe.config
+C:\Users\ADMIN\OneDrive\Desktop\DACK_C#\Cuoi_ki\Cuoi_ki\Cuoi_ki\bin\Debug\Cuoi_ki.exe
+C:\Users\ADMIN\OneDrive\Desktop\DACK_C#\Cuoi_ki\Cuoi_ki\Cuoi_ki\bin\Debug\Cuoi_ki.pdb
+C:\Users\ADMIN\OneDrive\Desktop\DACK_C#\Cuoi_ki\Cuoi_ki\Cuoi_ki\obj\Debug\Cuoi_ki.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Desktop\DACK_C#\Cuoi_ki\Cuoi_ki\Cuoi_ki\obj\Debug\Cuoi_ki.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\DACK_C#\Cuoi_ki\Cuoi_ki\Cuoi_ki\obj\Debug\Cuoi_ki.exe
+C:\Users\ADMIN\OneDrive\Desktop\DACK_C#\Cuoi_ki\Cuoi_ki\Cuoi_ki\obj\Debug\Cuoi_ki.pdb
+C:\Users\CHUMEODIIA\Documents\Zalo Received Files\Cuoi_ki\bin\Debug\Cuoi_ki.exe.config
+C:\Users\CHUMEODIIA\Documents\Zalo Received Files\Cuoi_ki\bin\Debug\Cuoi_ki.exe
+C:\Users\CHUMEODIIA\Documents\Zalo Received Files\Cuoi_ki\bin\Debug\Cuoi_ki.pdb
+C:\Users\CHUMEODIIA\Documents\Zalo Received Files\Cuoi_ki\obj\Debug\Cuoi_ki.csproj.AssemblyReference.cache
+C:\Users\CHUMEODIIA\Documents\Zalo Received Files\Cuoi_ki\obj\Debug\Cuoi_ki.csproj.CoreCompileInputs.cache
+C:\Users\CHUMEODIIA\Documents\Zalo Received Files\Cuoi_ki\obj\Debug\Cuoi_ki.exe
+C:\Users\CHUMEODIIA\Documents\Zalo Received Files\Cuoi_ki\obj\Debug\Cuoi_ki.pdb
+C:\Users\ADMIN\OneDrive\Desktop\DACK_C#\Cuoi_ki\bin\Debug\Cuoi_ki.exe.config
+C:\Users\ADMIN\OneDrive\Desktop\DACK_C#\Cuoi_ki\bin\Debug\Cuoi_ki.exe
+C:\Users\ADMIN\OneDrive\Desktop\DACK_C#\Cuoi_ki\bin\Debug\Cuoi_ki.pdb
+C:\Users\ADMIN\OneDrive\Desktop\DACK_C#\Cuoi_ki\obj\Debug\Cuoi_ki.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Desktop\DACK_C#\Cuoi_ki\obj\Debug\Cuoi_ki.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\DACK_C#\Cuoi_ki\obj\Debug\Cuoi_ki.exe
+C:\Users\ADMIN\OneDrive\Desktop\DACK_C#\Cuoi_ki\obj\Debug\Cuoi_ki.pdb
+D:\OOPC#\Cuoi_ki\bin\Debug\Cuoi_ki.exe.config
+D:\OOPC#\Cuoi_ki\bin\Debug\Cuoi_ki.exe
+D:\OOPC#\Cuoi_ki\bin\Debug\Cuoi_ki.pdb
+D:\OOPC#\Cuoi_ki\obj\Debug\Cuoi_ki.csproj.AssemblyReference.cache
+D:\OOPC#\Cuoi_ki\obj\Debug\Cuoi_ki.csproj.CoreCompileInputs.cache
+D:\OOPC#\Cuoi_ki\obj\Debug\Cuoi_ki.exe
+D:\OOPC#\Cuoi_ki\obj\Debug\Cuoi_ki.pdb
